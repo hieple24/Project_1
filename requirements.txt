@@ -4,3 +4,8 @@ matplotlib
 pillow
 wordcloud
 twint
+json
+requests
+sqlalchemy
+plotly
+twarc
