@@ -25,7 +25,7 @@ To clone the repository use the following line of code:
 
 ## Collecting Crypto Tweets
 
-To collect twiiter feed the twint libary was used. By using the cyrpto_scraper function you can colect tweets containing the string values in the tickers list. Alternatively, you can use the coin_miner function and pass in a string value of the text in tweets you want to collect.
+To collect twiiter feed the twint libary was used. By using the cyrpto_scraper function you can collect tweets containing the string values in the tickers list. Alternatively, you can use the coin_miner function and pass in a string value of the text in tweets you want to collect.
 ![Screenshot of code to collect tweets](./images/tweet_miner.png)
 
 ## Collecting Crypto prices
